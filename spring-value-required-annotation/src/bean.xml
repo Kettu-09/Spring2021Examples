@@ -16,8 +16,4 @@
 	<bean id="student" class="com.app.loadingpropertiesfile.Student" />
 
 
-
-
-
-
 </beans>
