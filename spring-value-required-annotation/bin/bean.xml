@@ -13,12 +13,11 @@
 
 	<context:annotation-config />
 
-	<bean id="student" class="com.app.loadingpropertiesfile.Student">
+	<bean id="student" class="com.app.loadingpropertiesfile.Student" />
 
 
-	</bean>
 
-	<!-- <bean id="human" class="com.autowiredconcept.Human" /> -->
+
 
 
 </beans>
